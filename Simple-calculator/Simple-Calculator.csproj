@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DAF1069-F3CE-4BEF-A547-8514C19AD8F2}</ProjectGuid>
+    <ProjectGuid>{9F645126-1901-46C3-B3BA-108455D0AE5A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Simple__calculator</RootNamespace>
-    <AssemblyName>Simple- calculator</AssemblyName>
+    <RootNamespace>Simple_Calculator</RootNamespace>
+    <AssemblyName>Simple-Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
